@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Ilya 👋
 
-My name is Ilya. I am an applied researcher with a PhD in Sociology, working at the intersection of Computational Social Science, Natural Language Processing (NLP) and Artificial Intelligence (AI) evaluation. My work involves designing end-to-end research pipelines, from automated data collection to analysis and interpretation, and working with large-scale, messy, multilingual data.
+**Applied Researcher | PhD in Sociology**
+*At the intersection of Computational Social Science, NLP, and AI Evaluation.*
 
-My expertise lies in navigating complex online environments, analysing text, networks, images, and video, and evaluating Large Language Model (LLM) outputs against human judgement. I translate technical findings into actionable insights for non-technical stakeholders.
+### 🚀 What I Do
+I design end-to-end research pipelines for large-scale, messy, and multilingual data. My core strength is translating complex technical findings into actionable insights for non-technical stakeholders.
 
-My combination of skills includes building data pipelines in Python, conducting rigorous mixed-methods research and communicating results clearly to diverse audiences and disciplines.
+* **AI Evaluation:** Comparing LLM outputs against human judgment.
+* **Data Pipelines:** Building automated collection systems (Python) and conducting mixed-methods social research.
+* **Digital Trace Analysis:** Navigating complex online environments (text, networks, images, video).
 
-What I work with:
+### 🛠 Tech Stack & Expertise
+| Category | Tools & Methods |
+| :--- | :--- |
+| **Data Collection** | YouTube API, Telegram, automated daily collection systems |
+| **NLP & Text** | Topic modeling, semantic networks, framing analysis |
+| **Network Analysis** | Social networks, communities, core-periphery structures |
+| **Computer Vision** | Object detection/recognition, co-occurrence analysis |
 
-- YouTube API, Telegram, automated daily collection systems
-- NLP, topic modeling, semantic networks, framing analysis
-- Social networks, communities, core-periphery network structures 
-- Object detection/recognition in images/video, co-occurrence analysis
+*Here I will store my selected projects, drafts and ideas* 
 
-Here I will store my selected projects, drafts and ideas 
+**Connect with me:** [www.linkedin.com/in/ilya-sulzhytski]
