@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**i-sulzhi/i-sulzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My name is Ilya. I am an applied researcher with a PhD in Sociology, working at the intersection of Computational Social Science, Natural Language Processing (NLP) and Artificial Intelligence (AI) evaluation. My work involves designing end-to-end research pipelines, from automated data collection to analysis and interpretation, and working with large-scale, messy, multilingual data.
 
 My expertise lies in navigating complex online environments, analysing text, networks, images, and video, and evaluating Large Language Model (LLM) outputs against human judgement. I translate technical findings into actionable insights for non-technical stakeholders.
