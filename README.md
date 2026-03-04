@@ -3,7 +3,7 @@
 **Applied Researcher | PhD in Sociology**
 *At the intersection of Computational Social Science, NLP, and AI Evaluation.*
 
-### 🚀 What I Do
+### 🗿 What I Do
 I design end-to-end research pipelines for large-scale, messy, and multilingual data. My core strength is translating complex technical findings into actionable insights for non-technical stakeholders.
 
 * **AI Evaluation:** Comparing LLM outputs against human judgment.
